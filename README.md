@@ -2,8 +2,8 @@
 
 ##Codigo está modulado, para compilar com GCC:
 
-    ```gcc -o main *.c -lm```
+    gcc -o main *.c -lm
 
 ##Para executar:
 
-    ```./main``
+    ./main
